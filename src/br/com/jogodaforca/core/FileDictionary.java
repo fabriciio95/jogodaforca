@@ -27,7 +27,7 @@ public class FileDictionary extends Dictionary {
 			}
 			
 			if(words.isEmpty()) {
-				throw new GameException("A lista de palavras n„o pode ser vazia");
+				throw new GameException("A lista de palavras n√£o pode ser vazia");
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();

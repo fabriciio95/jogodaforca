@@ -15,6 +15,6 @@ public class StaticDictionary extends Dictionary {
 
 	@Override
 	public String getName() {
-		return "Est·tico";
+		return "Est√°tico";
 	}
 }
